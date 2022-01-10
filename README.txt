@@ -16,3 +16,5 @@ que “não há suporte ao arquivo” deve ser informada
 Configurações:
 -> Eclipse 
 -> JDK 8
+-> Arquivos utilizados para navegação esta em formato zip (hd)
+-> Para rodar o projeto deverá ser alterado o caminho da pasta de arquivos
